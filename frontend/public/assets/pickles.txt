@@ -1,0 +1,10 @@
+types:
+cost (per Kg)
+i)Mango Pickle (Spicy)[930₹]
+ii)Bellam Mango Pickle (Sweet)[940₹]
+iii)Lemon Pickle[900₹]
+iv)Gooseberry pickle[900₹]
+v)Tomato Pickle[900₹]
+vi)Gongura Pickle(sour leafy Pickle)[940₹]
+vii)Mango Thokku Pickle(Sweet And Spicy)[920₹]
+
